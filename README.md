@@ -1,8 +1,4 @@
-# Node.js Image Search App 🖼️
-
-A simple **Node.js application** to search and display images quickly using a lightweight frontend.  
-
----
+# Node.js Image Search App 🖼️ | A simple **Node.js application** to search and display images quickly using a lightweight frontend. 
 
 ## Features
 
